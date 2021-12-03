@@ -1,11 +1,11 @@
 #Laporan Pemesanan Tiket Bus Online
 
 Daftar Nama yang mengerjakan RAD :
-Agung Ramadhandy
-Muhammad Rizky p
-Ririn A
-Cindana P A
+1. Agung Ramadhandy
+2. Muhammad Rizky p
+3. Ririn A
+4. Cindana P A
 
 Daftar Nama yang mengerjakan Design User Interface :
-Agung Ramadhandy
-Ririn Ardiani
+1. Agung Ramadhandy
+2. Ririn Ardiani
